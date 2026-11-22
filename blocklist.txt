@@ -1,0 +1,73 @@
+# ==========================================
+# Madani Islamic Browser - Remote Blocklist
+# ہر نئی لائن پر صرف ڈومین کا نام لکھیں
+# ==========================================
+
+# --- بڑے ایڈ نیٹ ورکس (Google, DoubleClick, AdSense وغیرہ) ---
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+adservice.google.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+adnxs.com
+adsrvr.org
+advertising.com
+amazon-adsystem.com
+
+# --- گندے، کلک بیٹ اور نیٹیو ایڈ نیٹ ورکس (Taboola, Outbrain, MGID) ---
+taboola.com
+outbrain.com
+mgid.com
+revcontent.com
+zergnet.com
+content.ad
+adblade.com
+adsterra.com
+effectivegatecpm.com
+highperformanceformat.com
+
+# --- پاپ اپ اور ری ڈائریکٹ ایڈز (Pop-unders & Redirects) ---
+popads.net
+popcash.net
+propellerads.com
+monetag.com
+onclickads.net
+hilltopads.net
+exoclick.com
+juicyads.com
+trafficjunky.net
+trafficstars.com
+plugrush.com
+ero-advertising.com
+adxpansion.com
+clickadu.com
+admaven.com
+adcash.com
+bidvertiser.com
+infolinks.com
+
+# --- موبائل ایپ ایڈز اور ٹریکرز ---
+applovin.com
+unityads.unity3d.com
+vungle.com
+ironsrc.com
+chartboost.com
+startappservice.com
+inmobi.com
+mopub.com
+flurry.com
+scorecardresearch.com
+quantserve.com
+criteo.com
+rubiconproject.com
+pubmatic.com
+openx.net
+casalemedia.com
+smartadserver.com
+yieldmo.com
+sharethrough.com
+triplelift.com
+mediavine.com
+adthrive.com
+ezoic.net
