@@ -1,0 +1,35 @@
+{
+  "app_notice": {
+    "show": true,
+    "text": "خوش آمدید! صاف ستھری اور محفوظ اسلامی براؤزنگ کا لطف اٹھائیں۔",
+    "link": "https://www.madaniduniya.com"
+  },
+  "daily_quote": {
+    "title": "آج کی حدیثِ مبارکہ",
+    "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "urdu": "تم میں سب سے بہتر وہ ہے جو قرآن سیکھے اور سکھائے۔",
+    "reference": "صحیح بخاری: 5027"
+  },
+  "custom_ads": [
+    {
+      "id": "ad_1",
+      "active": true,
+      "badge": "خصوصی پیشکش",
+      "title": "مدنی دنیا - مستند اسلامی مضامین اور فتاویٰ",
+      "description": "روزانہ نئے اسلامی مضامین، مسائل اور کتابیں بالکل مفت پڑھیں۔",
+      "image": "https://www.madaniduniya.com/favicon.ico",
+      "url": "https://www.madaniduniya.com",
+      "button_text": "وزٹ کریں"
+    },
+    {
+      "id": "ad_2",
+      "active": true,
+      "badge": "اسپانسرڈ",
+      "title": "رضا سلیکشن - اسلامی کتب، عطر اور ٹوپیاں",
+      "description": "بہترین کوالٹی کے عطر، شالیں اور دینی کتب گھر بیٹھے منگوائیں۔",
+      "image": "https://via.placeholder.com/600x300/0B4F3A/FFFFFF?text=Raza+Selection",
+      "url": "https://www.madaniduniya.com",
+      "button_text": "ابھی دیکھیں"
+    }
+  ]
+}
